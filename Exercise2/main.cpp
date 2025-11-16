@@ -7,18 +7,6 @@
 #include<string>    // Library for handling strings (std::string)
 using namespace std;    // Allows using cout and cin without std::
 
-/*
- * Function: reverse_text
- *  Displays the given text in reverse order.
- *  texto: the string entered by the user.
- *  Returns: nothing (void), just prints the reversed text.
- */
-void reverse_text(string texto) {
-    // Loop through the string from the last character to the first
-    for (int i = texto.length() - 1; i >= 0; i--) {
-        cout << texto.at(i);    // Uses the at() method to access character at position i
-    }
-}
 
 /*
  * Function: main
@@ -33,7 +21,9 @@ int main() {
 
 
     cout << "\nReversed text: ";    // Display header before reversed output
-    reverse_text(texto);            // Call function to print reversed string
+    for (int i = texto.length() - 1; i >= 0; i--) {
+        cout << texto.at(i);    // Uses the at() method to access character at position i
+    }
     cout << endl;                   // Print newline for clean formatting
 
     return 0;                       // End of program
