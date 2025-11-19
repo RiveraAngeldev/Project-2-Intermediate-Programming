@@ -15,7 +15,6 @@ Ej.     1           2                   3
 
 #include<iostream>  // Standard library for input/output (cout)
 #include <ctime>    // Includes the library for the time() function (used for the random seed)
-#include <iomanip>  // Includes the library for output format manipulators (setw)
 using namespace std;    // Allows using core C++ objects like cout and setw without the std:: prefix
 
 /*
@@ -63,13 +62,13 @@ int main() {
         volts[i] = current[i] * resistance[i];
     }
 
-    // Prints the table header, using setw() to define the column width (15 characters)
-    cout << setw(15) << "Corriente" << setw(15) << "Resistencia" << setw(15) << "Voltios" << endl;
+    // Prints the table header, using \t
+    cout << "\tCorriente" << "\tResistencia" << "\tVoltios" << endl;
     
     // For loop to print the 10 rows of calculated data
     for (int i = 0; i < 10; i++) {
-        // Prints the array values using adjusted setw() values for visual alignment under the headers
-        cout << setw(11) << current[i] << setw(14) << resistance[i] << setw(18) << volts[i] << endl;
+        // Prints the array values using adjusted \t values for visual alignment under the headers
+        cout << "\t    " <<current[i] << "\t\t    " << resistance[i] << "\t\t  " << volts[i] << endl;
     }
     
     return 0;
