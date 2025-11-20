@@ -11,9 +11,9 @@
 
 **Partner 2:** (S01584924) (Ruben Rivera Agosto) (rrivera960@email.uagm.edu)
 
-**Partner 3:** (Alvin Bracetty Rivera) (S01538531) (abracetty2@email.uagm.edu)
+**Partner 3:** (S01538531) (Alvin Bracetty Rivera) (abracetty2@email.uagm.edu)
 
-**Partner 4:** (Denis Vargas Rincon) (S01546740) (dvargas75@email.uagm.edu)
+**Partner 4:** (S01546740) (Denis Vargas Rincon) (dvargas75@email.uagm.edu)
 
 ---
 
