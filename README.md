@@ -11,9 +11,9 @@
 
 **Partner 2:** (S01584924) (Ruben Rivera Agosto) (rrivera960@email.uagm.edu)
 
-**Partner 3:** (STUDENT NUMBER HERE) (STUDENT NAME HERE) (STUDENT EMAIL HERE)
+**Partner 3:** (Alvin Bracetty Rivera) (S01538531) (abracetty2@email.uagm.edu)
 
-**Partner 4:** (STUDENT NUMBER HERE) (STUDENT NAME HERE) (STUDENT EMAIL HERE)
+**Partner 4:** (Denis Vargas Rincon) (S01546740) (dvargas75@email.uagm.edu)
 
 ---
 
