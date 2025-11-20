@@ -9,7 +9,7 @@
 ## 👥 Students
 **Partner 1:** (S01583071) (Angel Rivera Merly) (arivera2527@email.uagm.edu)
 
-**Partner 2:** (STUDENT NUMBER HERE) (STUDENT NAME HERE) (STUDENT EMAIL HERE)
+**Partner 2:** (S01584924) (Ruben Rivera Agosto) (rrivera960@email.uagm.edu)
 
 **Partner 3:** (STUDENT NUMBER HERE) (STUDENT NAME HERE) (STUDENT EMAIL HERE)
 
